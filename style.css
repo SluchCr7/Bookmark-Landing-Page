@@ -224,11 +224,11 @@ footer ul li{
     width: 40px;
     height: 40px;
 }
-@media (min-width : 991px) and (max-width : 1400px){
+@media (min-width : 991px) and (max-width : 1800px){
     .header {
         .home{
             .text{
-                align-items: center !important;
+                padding-left: 5rem !important;
                 .title{
                     width: 79% !important;
                     text-align: left;
